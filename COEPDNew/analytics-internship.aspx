@@ -28,6 +28,7 @@ internship for Data Science | Data Science Internship In Hyderabad
                     </h1>
                     <p class="row">
                         <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                         <!-- Go to www.addthis.com/dashboard to customize your tools -->
                         <span class="addthis_native_toolbox">
                         </span>
                     </p>
